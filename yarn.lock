@@ -488,6 +488,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@types/cookie@npm:^0.6.0":
+  version: 0.6.0
+  resolution: "@types/cookie@npm:0.6.0"
+  checksum: 5edce7995775b0b196b142883e4d4f71fd93c294eaec973670f1fa2540b70ea7390408ed513ddefef5fcb12a578100c76596e8f2a714b0c2ae9f70ee773f4510
+  languageName: node
+  linkType: hard
+
 "@types/estree@npm:*, @types/estree@npm:^1.0.0":
   version: 1.0.1
   resolution: "@types/estree@npm:1.0.1"
@@ -2540,7 +2547,7 @@ __metadata:
     "@neoconfetti/svelte": ^1.0.0
     "@sveltejs/adapter-static": ^2.0.3
     "@sveltejs/kit": ^1.20.4
-    "@types/cookie": ^0.5.1
+    "@types/cookie": ^0.6.0
     "@typescript-eslint/eslint-plugin": ^5.45.0
     "@typescript-eslint/parser": ^5.45.0
     autoprefixer: ^10.4.14
