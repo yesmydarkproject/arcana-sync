@@ -2291,12 +2291,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"magic-string@npm:^0.30.0, magic-string@npm:^0.30.1":
-  version: 0.30.2
-  resolution: "magic-string@npm:0.30.2"
+"magic-string@npm:^0.30.0, magic-string@npm:^0.30.1, magic-string@npm:^0.30.4":
+  version: 0.30.5
+  resolution: "magic-string@npm:0.30.5"
   dependencies:
     "@jridgewell/sourcemap-codec": ^1.4.15
-  checksum: c0bbb9b27b2772e6bfaa5d0f6452d47c462d588ae7c43fbaac062b07836d3ec0140fcdd42a57aa53ed990abafcdd0fc17907813921b5df04eccf43e67674bc57
+  checksum: da10fecff0c0a7d3faf756913ce62bd6d5e7b0402be48c3b27bfd651b90e29677e279069a63b764bcdc1b8ecdcdb898f29a5c5ec510f2323e8d62ee057a6eb18
   languageName: node
   linkType: hard
 
@@ -2553,7 +2553,7 @@ __metadata:
     postcss: ^8.4.27
     prettier: ^2.8.0
     prettier-plugin-svelte: ^2.10.1
-    svelte: ^4.0.5
+    svelte: ^4.2.8
     svelte-check: ^3.4.3
     tailwindcss: ^3.3.3
     tslib: ^2.4.1
@@ -3561,9 +3561,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"svelte@npm:^4.0.5":
-  version: 4.1.2
-  resolution: "svelte@npm:4.1.2"
+"svelte@npm:^4.2.8":
+  version: 4.2.8
+  resolution: "svelte@npm:4.2.8"
   dependencies:
     "@ampproject/remapping": ^2.2.1
     "@jridgewell/sourcemap-codec": ^1.4.15
@@ -3576,9 +3576,9 @@ __metadata:
     estree-walker: ^3.0.3
     is-reference: ^3.0.1
     locate-character: ^3.0.0
-    magic-string: ^0.30.0
+    magic-string: ^0.30.4
     periscopic: ^3.1.0
-  checksum: f194763fe7c2ac252d815590dd3a1b3f9b031ac8e517bad8c2f44c81d7db236e720e852792b5aeab8de2cc5771a7cde67d6418156d726a811894563a68b30b90
+  checksum: ef90cee2a88675faa17537d68c4d121c5c89fb5b71d6bb6e7c47bdfc68e13338d1c1673a892cf87faac13c6614e186068e895f8849555d9d2e083e3783f9b3e8
   languageName: node
   linkType: hard
 
