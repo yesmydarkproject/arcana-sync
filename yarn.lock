@@ -329,10 +329,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@neoconfetti/svelte@npm:^1.0.0":
-  version: 1.0.0
-  resolution: "@neoconfetti/svelte@npm:1.0.0"
-  checksum: 9f2374fcb1748b161319f0070cf4fbc83703c8e4958a2a2a7d8b4eb240305939454f85b9781ad7ed2e5c9db4b88db4377c5a1be40172aca641c642a8d6710445
+"@neoconfetti/svelte@npm:^2.2.1":
+  version: 2.2.1
+  resolution: "@neoconfetti/svelte@npm:2.2.1"
+  checksum: 2deec60221b079aaf5154b663ed0138c19e841341b450e8a4cc2a8c08136632ea86db10826561770bcb3c10d3403c90a5ac6a660930b9ac2abf0c175508784c4
   languageName: node
   linkType: hard
 
@@ -2537,7 +2537,7 @@ __metadata:
   resolution: "myapp@workspace:."
   dependencies:
     "@fontsource/ibm-plex-sans-jp": ^5.0.7
-    "@neoconfetti/svelte": ^1.0.0
+    "@neoconfetti/svelte": ^2.2.1
     "@sveltejs/adapter-static": ^2.0.3
     "@sveltejs/kit": ^1.20.4
     "@types/cookie": ^0.5.1
