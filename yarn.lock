@@ -225,10 +225,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fontsource/ibm-plex-sans-jp@npm:^5.0.7":
-  version: 5.0.7
-  resolution: "@fontsource/ibm-plex-sans-jp@npm:5.0.7"
-  checksum: a94a66e63f024886b00ccc5971a09eb0b38bac839b4080fd6aba3eba1698f8cac733aebead5bc1a8d0f823ce5477f9765afaea6412b350a93764699ab2af1994
+"@fontsource/ibm-plex-sans-jp@npm:^5.0.12":
+  version: 5.0.12
+  resolution: "@fontsource/ibm-plex-sans-jp@npm:5.0.12"
+  checksum: 595907d9b76fbefc21edad3b58bb3ee52ee672830450ee886705246804397f1c0df9e6dfb0790f69185f5c798b5cffe161fc51d325a6f18f4d299f3ecc08832f
   languageName: node
   linkType: hard
 
@@ -2536,7 +2536,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "myapp@workspace:."
   dependencies:
-    "@fontsource/ibm-plex-sans-jp": ^5.0.7
+    "@fontsource/ibm-plex-sans-jp": ^5.0.12
     "@neoconfetti/svelte": ^1.0.0
     "@sveltejs/adapter-static": ^2.0.3
     "@sveltejs/kit": ^1.20.4
