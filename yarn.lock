@@ -2557,7 +2557,7 @@ __metadata:
     svelte-check: ^3.4.3
     tailwindcss: ^3.3.3
     tslib: ^2.4.1
-    typescript: ^5.0.0
+    typescript: ^5.6.1-rc
     vite: ^4.4.2
     vitest: ^0.33.0
   languageName: unknown
@@ -3746,7 +3746,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typescript@npm:^5.0.0, typescript@npm:^5.0.3":
+"typescript@npm:^5.0.3":
   version: 5.1.6
   resolution: "typescript@npm:5.1.6"
   bin:
@@ -3756,13 +3756,33 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typescript@patch:typescript@^5.0.0#~builtin<compat/typescript>, typescript@patch:typescript@^5.0.3#~builtin<compat/typescript>":
+"typescript@npm:^5.6.1-rc":
+  version: 5.6.1-rc
+  resolution: "typescript@npm:5.6.1-rc"
+  bin:
+    tsc: bin/tsc
+    tsserver: bin/tsserver
+  checksum: 1d649fbb31b9bbc704ecf186eb52fc121a5658c9180ea701559948d7369e03b511cc4caf78993b28b3c86dba692cc7a2856cdc1022b6a52bb6cf68e6fde0db5e
+  languageName: node
+  linkType: hard
+
+"typescript@patch:typescript@^5.0.3#~builtin<compat/typescript>":
   version: 5.1.6
   resolution: "typescript@patch:typescript@npm%3A5.1.6#~builtin<compat/typescript>::version=5.1.6&hash=5da071"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
   checksum: f53bfe97f7c8b2b6d23cf572750d4e7d1e0c5fff1c36d859d0ec84556a827b8785077bc27676bf7e71fae538e517c3ecc0f37e7f593be913d884805d931bc8be
+  languageName: node
+  linkType: hard
+
+"typescript@patch:typescript@^5.6.1-rc#~builtin<compat/typescript>":
+  version: 5.6.1-rc
+  resolution: "typescript@patch:typescript@npm%3A5.6.1-rc#~builtin<compat/typescript>::version=5.6.1-rc&hash=14eedb"
+  bin:
+    tsc: bin/tsc
+    tsserver: bin/tsserver
+  checksum: ee226389ec69523b891507f99950f25347fbeffc9223782059fcb0693f1ce1aeafbf1db4d1296e2c0837fe71a8a96a12cee83f7b097790225f2ba85811265e05
   languageName: node
   linkType: hard
 
