@@ -12,7 +12,7 @@
     "format": "prettier --plugin-search-dir . --write ."
   },
   "devDependencies": {
-    "@fontsource/ibm-plex-sans-jp": "^5.0.7",
+    "@fontsource/ibm-plex-sans-jp": "^5.1.0",
     "@neoconfetti/svelte": "^1.0.0",
     "@sveltejs/adapter-static": "^2.0.3",
     "@sveltejs/kit": "^1.20.4",
