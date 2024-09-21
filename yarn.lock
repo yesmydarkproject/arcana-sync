@@ -393,12 +393,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@sveltejs/adapter-static@npm:^2.0.3":
-  version: 2.0.3
-  resolution: "@sveltejs/adapter-static@npm:2.0.3"
+"@sveltejs/adapter-static@npm:^3.0.5":
+  version: 3.0.5
+  resolution: "@sveltejs/adapter-static@npm:3.0.5"
   peerDependencies:
-    "@sveltejs/kit": ^1.5.0
-  checksum: 75559b2bb5145c70766a619bf64d7a6f1de7b1f10a79d962bddbb599bce938ef46ee624f880de648019fe5aec30a09ca317838c3e4deb6c46934b79f1fa18149
+    "@sveltejs/kit": ^2.0.0
+  checksum: 9534cce2398193ff08663a048aadec02afda2f414e9c67d717e97fab43eb5913eb4432641304327280fd9b8adec43703168cbe35ab6147ce978c2a5498a5290c
   languageName: node
   linkType: hard
 
@@ -2538,7 +2538,7 @@ __metadata:
   dependencies:
     "@fontsource/ibm-plex-sans-jp": ^5.0.7
     "@neoconfetti/svelte": ^1.0.0
-    "@sveltejs/adapter-static": ^2.0.3
+    "@sveltejs/adapter-static": ^3.0.5
     "@sveltejs/kit": ^1.20.4
     "@types/cookie": ^0.5.1
     "@typescript-eslint/eslint-plugin": ^5.45.0
