@@ -2552,7 +2552,7 @@ __metadata:
     load-script2: ^2.0.6
     postcss: ^8.4.27
     prettier: ^2.8.0
-    prettier-plugin-svelte: ^2.10.1
+    prettier-plugin-svelte: ^3.2.7
     svelte: ^4.0.5
     svelte-check: ^3.4.3
     tailwindcss: ^3.3.3
@@ -2984,13 +2984,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prettier-plugin-svelte@npm:^2.10.1":
-  version: 2.10.1
-  resolution: "prettier-plugin-svelte@npm:2.10.1"
+"prettier-plugin-svelte@npm:^3.2.7":
+  version: 3.2.7
+  resolution: "prettier-plugin-svelte@npm:3.2.7"
   peerDependencies:
-    prettier: ^1.16.4 || ^2.0.0
-    svelte: ^3.2.0 || ^4.0.0-next.0
-  checksum: 45f7993098d9f4be7b1c8f61ebce0161996bb6030dc4883ec3d6d9cff552f2cfb5da41ba20e01349709e793b83faaad2dfe81789cd7e17a610f0134df2743266
+    prettier: ^3.0.0
+    svelte: ^3.2.0 || ^4.0.0-next.0 || ^5.0.0-next.0
+  checksum: cd23f697e574622a185883e07d794e428c2a8d443869df64ceecb331ec73642077514788f3575709c61d598f995221492363e17912a064e0839ddb5c70640adb
   languageName: node
   linkType: hard
 
