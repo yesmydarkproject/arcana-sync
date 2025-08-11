@@ -488,6 +488,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@types/cookie@npm:^1.0.0":
+  version: 1.0.0
+  resolution: "@types/cookie@npm:1.0.0"
+  dependencies:
+    cookie: "*"
+  checksum: fb0ad67988f3d3e4a181c7758f2db02e9b661d2e56b60256f5071a9458cf9e4425c18ce201c68f44d8022d0a5618f1f205db812ed28c3983c3579c759764d0b6
+  languageName: node
+  linkType: hard
+
 "@types/estree@npm:*, @types/estree@npm:^1.0.0":
   version: 1.0.1
   resolution: "@types/estree@npm:1.0.1"
@@ -1147,6 +1156,13 @@ __metadata:
   version: 1.1.0
   resolution: "console-control-strings@npm:1.1.0"
   checksum: 8755d76787f94e6cf79ce4666f0c5519906d7f5b02d4b884cf41e11dcd759ed69c57da0670afd9236d229a46e0f9cf519db0cd829c6dca820bb5a5c3def584ed
+  languageName: node
+  linkType: hard
+
+"cookie@npm:*":
+  version: 1.0.2
+  resolution: "cookie@npm:1.0.2"
+  checksum: 2c5a6214147ffa7135ce41860c781de17e93128689b0d080d3116468274b3593b607bcd462ac210d3a61f081db3d3b09ae106e18d60b1f529580e95cf2db8a55
   languageName: node
   linkType: hard
 
@@ -2540,7 +2556,7 @@ __metadata:
     "@neoconfetti/svelte": ^1.0.0
     "@sveltejs/adapter-static": ^2.0.3
     "@sveltejs/kit": ^1.20.4
-    "@types/cookie": ^0.5.1
+    "@types/cookie": ^1.0.0
     "@typescript-eslint/eslint-plugin": ^5.45.0
     "@typescript-eslint/parser": ^5.45.0
     autoprefixer: ^10.4.14
