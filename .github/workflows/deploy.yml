@@ -32,7 +32,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v3
         with:
-          node-version: '20'
+          node-version: '20.19.5'
           cache: yarn
       - name: Setup Pages
         uses: actions/configure-pages@v3
